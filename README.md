@@ -21,3 +21,4 @@ Good night, GitHub!
 おはようございます、GitHub!
 
 fix1
+fix2
