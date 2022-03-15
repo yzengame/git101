@@ -2,3 +2,4 @@
 
 こんにちは、GitHub!
 こんばんは、GitHub!
+おはようございます、GitHub!
