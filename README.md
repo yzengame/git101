@@ -19,3 +19,7 @@ Good night, GitHub!
 こんにちは、GitHub!
 こんばんは、GitHub!
 おはようございます、GitHub!
+
+fix1
+fix2
+fix3
